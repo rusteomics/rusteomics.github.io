@@ -1,0 +1,6 @@
+[book]
+authors = ["RalfG", "DouweSchulte", "di-hardt"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rusteomics Community"
