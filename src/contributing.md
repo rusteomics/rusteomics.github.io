@@ -22,10 +22,10 @@ in the Rusteomics community. There are many ways to contribute, including:
 If you are considering proposing a new feature or project, please ensure that it aligns with the
 goals and values of the Rusteomics project. In particular, we ask that you consider the following:
 
-- **Scope**: The feature or project should be within the scope of the Rusteomics project, which is
-  focused on developing tools and libraries for mass spectrometry-based omics data analysis in
-  Rust. If the feature or project is outside this scope, it may be better suited to another project
-  or community.
+- **Scope**: The feature or project should be within the [scope of the Rusteomics project](./scope.md),
+  which is focused on developing tools and libraries for mass spectrometry-based omics data
+  analysis in Rust. If the feature or project is outside this scope, it may be better suited to
+  another project or community.
 
 - **Community interest**: Consider whether the feature or project is likely to be of interest to
   the Rusteomics community. Features that are likely to have broad appeal or address common use
