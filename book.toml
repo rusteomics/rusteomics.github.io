@@ -1,6 +1,10 @@
 [book]
-authors = ["RalfG", "DouweSchulte", "di-hardt"]
+authors = ["RalfG", "DouweSchulte", "di-hardt", "Rusteomics Community"]
 language = "en"
 multilingual = false
 src = "src"
 title = "Rusteomics Community"
+
+[output.html]
+git-repository-url = "https://github.com/rusteomics/rusteomics.github.io/tree/main"
+edit-url-template = "https://github.com/rusteomics/rusteomics.github.io/edit/main/{path}"
