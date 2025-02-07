@@ -69,7 +69,8 @@ licensing terms.
 5. **Implementation**: Once a decision has been reached, the proposal is implemented by the
    community member who proposed it, or by another community member who volunteers to do so. The
    implementation should follow the guidelines outlined in the proposal, and should be reviewed by
-   the community to ensure that it meets the project’s standards.
+   the community to ensure that it meets the project’s standards. This review process follows the
+   same steps outlined here.
 
 [rust-decision-making]: https://rust-lang.github.io/team/working-groups/decision-making.html
 [rust-decision-making-source]: https://github.com/rust-lang/lang-team/blob/401f90116f28f07fd7c4680869add68f71441a2a/src/decision_process.md

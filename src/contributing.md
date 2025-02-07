@@ -1,8 +1,9 @@
 # Contributing
 
-We welcome contributions to the Rusteomics project! Whether you are a developer or a scientist,
-from academia or industry, we invite you to participate in the Rusteomics community. There are many
-ways to contribute, including:
+## We welcome contributions to the Rusteomics project!
+
+Whether you are a developer or a scientist, from academia or industry, we invite you to participate
+in the Rusteomics community. There are many ways to contribute, including:
 
 - **Code contributions**: Help us improve the Rusteomics project by contributing code to the
   libraries and tools that we maintain.
@@ -15,7 +16,6 @@ ways to contribute, including:
 
 - **Community engagement**: Help us build a strong and inclusive community by participating in
   discussions, sharing your knowledge and experience, and helping others.
-
 
 ## Criteria for introducing new features or projects
 
